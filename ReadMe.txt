@@ -1,3 +1,12 @@
+// Implementing a Python dice game by applying basics such as function, if statement, loop, and list
+
+1.
+Source files are available on request.
+
+2.
+In order to run the program, on the Windows Command Prompt, type 'playdices.exe' 
+
+3. 
 HOW TO PLAY THE DICE GAME:
 
 Dicey is a game	played with five dice.
