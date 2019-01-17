@@ -4,7 +4,7 @@
 Source files are available on request.
 
 2.
-In order to run the program, on the Windows Command Prompt, type 'playdices.exe' 
+In order to run the program, on the Windows Command Prompt, type 'playdice.exe' 
 
 3. 
 HOW TO PLAY THE DICE GAME:
